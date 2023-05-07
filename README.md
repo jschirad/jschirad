@@ -1,6 +1,6 @@
 # Hi there, I'm Facundo Schirado 👋
 
-I'm a software developer with a passion for programming and technology. I enjoy working on projects related to web development, infrastructure automation, and cloud computing.
+I'm a SRE with a passion for programming and technology. I enjoy working on projects related to web development, infrastructure automation, and cloud computing.
 
 - 🔭 I’m currently working on various infrastructure projects.
 - 🌱 I’m always learning and expanding my skills, currently diving deeper into cloud technologies and containerization.
