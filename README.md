@@ -8,7 +8,7 @@ I'm a SRE with a passion for programming and technology. I enjoy working on proj
 
 ## 📫 How to reach me:
 
-- Email: [facucode@email.com](mailto:facucode@email.com)
+- Email: [facucode@email.com](mailto:facundo.schirado@gmail.com)
 - GitHub: [@jschirad](https://github.com/jschirad)
 - LinkedIn: [Facundo Schirado](https://www.linkedin.com/in/facundo-schirado/)
 - Web: [FacuCode](https://facucode.com)
